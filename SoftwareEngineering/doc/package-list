@@ -1,0 +1,15 @@
+kassa.core
+kassa.core.analytics
+kassa.core.exceptions
+kassa.core.food
+kassa.core.io
+kassa.core.items
+kassa.core.orders
+kassa.core.storage
+kassa.discovery
+kassa.gui
+kassa.gui.client
+kassa.gui.dialog
+kassa.gui.foodmanager
+kassa.gui.master
+kassa.gui.table
